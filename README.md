@@ -4,7 +4,7 @@
 O repositório é uma API com listagem e cadastro de usuários.<br>
 Foram utilizados princípios SOLID e DDD para a arquitetura, com o objetivo de proporcionar maior adaptabilidade e manutenção do código.
 
-O fluxo de dependências dos pacotes está representado pela ilustração abaixo
+O fluxo de dependências dos pacotes está representado pela ilustração abaixo:
 
 ![](./diagram.png)
 
