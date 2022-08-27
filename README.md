@@ -19,9 +19,9 @@ go run main.go
 ```
 
 ## Endpoints
-Lista usuários (GET) <a href="http://localhost:8080/">http://localhost:8080/</a>.<br>
-Busca usuário (GET) <a href="http://localhost:8080/">http://localhost:8080/:ID</a>.<br>
-Cadastra usuário (POST) <a href="http://localhost:8080/">http://localhost:8080/</a>.
+Lista usuários (GET) <a href="http://localhost:8080/users">http://localhost:8080/</a>.<br>
+Busca usuário (GET) <a href="http://localhost:8080/users/">http://localhost:8080/:ID</a>.<br>
+Cadastra usuário (POST) <a href="http://localhost:8080/users">http://localhost:8080/</a>.
 
 
 ## Referências
